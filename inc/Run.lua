@@ -245,12 +245,10 @@ end
 if msg.sender_user_id_ == 1232264459 then 
 msg.TheRank =  ' ملك التلجرام 👑'
 msg.Rank = 1
-
 msg.Rank = 1
 elseif msg.sender_user_id_ == 1463960994 then 
 msg.TheRank =  ' مطور السورس '
 msg.Rank = 1
-
 msg.Rank = 1
 elseif msg.sender_user_id_ == 1030806172 then 
 msg.TheRank =  ' مطور السورس '
